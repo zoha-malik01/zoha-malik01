@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5f0e8,50:c8d5b9,100:8fab7b&height=180&section=header&text=Zoha%20Malik&fontSize=52&fontColor=4a5e3a&fontAlignY=45&desc=Full%20Stack%20Developer%20%20multan%20&descAlignY=68&descColor=6b7f55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5f0e8,50:c8d5b9,100:8fab7b&height=180&section=header&text=Zoha%20Malik&fontSize=52&fontColor=4a5e3a&fontAlignY=45&desc=Full%20Stack%20Developer%20%&descAlignY=68&descColor=6b7f55&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=6B7F55&center=true&vCenter=true&width=500&lines=building+things+that+actually+work+;node.js+%E2%80%A2+postgresql+%E2%80%A2+php+%E2%80%A2+js;based+in+multan%2C+pakistan+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=6B7F55&center=true&vCenter=true&width=500&lines=building+things+that+actually+work+;node.js+%E2%80%A2+postgresql+%E2%80%A2+php+%E2%80%A2+js;)](https://git.io/typing-svg)
 
 </div>
 
