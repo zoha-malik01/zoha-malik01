@@ -129,7 +129,7 @@ Responsive product showcase with organized navigation, category filtering & poli
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zoha-malik01v&hide_border=true&background=f5f0e8&ring=8fab7b&fire=c8d5b9&currStreakLabel=4a5e3a&sideLabels=6b7f55&dates=6b7f55&sideNums=4a5e3a"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zoha-malik01&hide_border=true&background=f5f0e8&ring=8fab7b&fire=c8d5b9&currStreakLabel=4a5e3a&sideLabels=6b7f55&dates=6b7f55&sideNums=4a5e3a"/>
 
 </div>
 
