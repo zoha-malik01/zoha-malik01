@@ -111,7 +111,7 @@ Full stack task management with complete CRUD operations, structured database de
 Responsive product showcase with organized navigation, category filtering & polished aesthetic UI
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20-c8d5b9?style=flat-square&logoColor=4a5e3a)](https://zohamalikdev.github.io/DrinkCo/index.html)
+[![Live](https://img.shields.io/badge/live%20demo%20-c8d5b9?style=flat-square&logoColor=4a5e3a)](https://zoha-malik01.github.io/DrinkCo/index.html)
 </td>
 </tr>
 </table>
@@ -122,14 +122,14 @@ Responsive product showcase with organized navigation, category filtering & poli
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=zohamalikdev&show_icons=true&hide_border=true&bg_color=f5f0e8&title_color=4a5e3a&text_color=6b7f55&icon_color=8fab7b&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohamalikdev&layout=compact&hide_border=true&bg_color=f5f0e8&title_color=4a5e3a&text_color=6b7f55"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=zoha-malik01&show_icons=true&hide_border=true&bg_color=f5f0e8&title_color=4a5e3a&text_color=6b7f55&icon_color=8fab7b&count_private=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-malik01&layout=compact&hide_border=true&bg_color=f5f0e8&title_color=4a5e3a&text_color=6b7f55"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zohamalikdev&hide_border=true&background=f5f0e8&ring=8fab7b&fire=c8d5b9&currStreakLabel=4a5e3a&sideLabels=6b7f55&dates=6b7f55&sideNums=4a5e3a"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zoha-malik01v&hide_border=true&background=f5f0e8&ring=8fab7b&fire=c8d5b9&currStreakLabel=4a5e3a&sideLabels=6b7f55&dates=6b7f55&sideNums=4a5e3a"/>
 
 </div>
 
