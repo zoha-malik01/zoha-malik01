@@ -1,217 +1,247 @@
 <div align="center">
 
-<svg width="100%" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(135deg, #f5f0e8 0%, #e8f4f0 100%);">
-  <defs>
-    <style>
-      @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-20px); } }
-      @keyframes glow { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
-      @keyframes dash { to { stroke-dashoffset: 0; } }
-      .float-text { animation: float 3s ease-in-out infinite; }
-      .glow-circle { animation: glow 2s ease-in-out infinite; }
-      .dash-line { animation: dash 2s linear infinite; stroke-dasharray: 1000; }
-    </style>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#378ADD;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#185FA5;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Floating circles background -->
-  <circle cx="200" cy="100" r="80" fill="url(#grad1)" opacity="0.1" class="glow-circle"/>
-  <circle cx="1000" cy="300" r="100" fill="#639922" opacity="0.08" class="glow-circle" style="animation-delay: 0.5s"/>
-  
-  <!-- Main heading -->
-  <text x="600" y="120" font-size="72" font-weight="700" text-anchor="middle" fill="#2C2C2A" class="float-text">
-    ZOHA MALIK
-  </text>
-  
-  <!-- Subheading with gradient effect -->
-  <text x="600" y="180" font-size="28" text-anchor="middle" fill="#378ADD" font-weight="600">
-    FULL-STACK DEVELOPER
-  </text>
-  
-  <!-- Decorative line -->
-  <line x1="350" y1="210" x2="850" y2="210" stroke="#378ADD" stroke-width="2" opacity="0.3"/>
-  
-  <!-- Description -->
-  <text x="600" y="280" font-size="16" text-anchor="middle" fill="#6b7f55" font-weight="400">
-    Shipping production-grade applications | Real solutions for real problems
-  </text>
-  
-  <!-- Stats with animated boxes -->
-  <g>
-    <rect x="250" y="320" width="200" height="60" fill="white" stroke="#378ADD" stroke-width="2" rx="4"/>
-    <text x="350" y="345" font-size="32" font-weight="700" text-anchor="middle" fill="#378ADD">5+</text>
-    <text x="350" y="370" font-size="12" text-anchor="middle" fill="#6b7f55" font-weight="600">PROJECTS SHIPPED</text>
-  </g>
-  
-  <g>
-    <rect x="500" y="320" width="200" height="60" fill="white" stroke="#639922" stroke-width="2" rx="4"/>
-    <text x="600" y="345" font-size="32" font-weight="700" text-anchor="middle" fill="#639922">3+</text>
-    <text x="600" y="370" font-size="12" text-anchor="middle" fill="#6b7f55" font-weight="600">YEARS BUILDING</text>
-  </g>
-  
-  <g>
-    <rect x="750" y="320" width="200" height="60" fill="white" stroke="#D85A30" stroke-width="2" rx="4"/>
-    <text x="850" y="345" font-size="32" font-weight="700" text-anchor="middle" fill="#D85A30">∞</text>
-    <text x="850" y="370" font-size="12" text-anchor="middle" fill="#6b7f55" font-weight="600">LEARNING MODE</text>
-  </g>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=ZOHA+MALIK;Full-Stack+Developer;Building+Production-Grade+Apps;Real+Solutions+for+Real+Problems" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🚀 What I Build
+<div align="center">
 
-I don't just write code. I architect scalable solutions, design databases that don't break under pressure, and ship features that actually work. Every project is built with production-ready standards.
+[![Email](https://img.shields.io/badge/Email-zohamalik.dev%40gmail.com-c8d5b9?style=for-the-badge&logo=gmail&logoColor=4a5e3a)](mailto:zohamalik.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zohamalik.dev-d4c9a8?style=for-the-badge&logo=globe&logoColor=4a5e3a)](https://zohamalik.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zohamalik-c8d5b9?style=for-the-badge&logo=linkedin&logoColor=4a5e3a)](https://linkedin.com/in/zohamalik-)
+[![GitHub](https://img.shields.io/badge/GitHub-zoha--malik01-d4c9a8?style=for-the-badge&logo=github&logoColor=4a5e3a)](https://github.com/zoha-malik01)
 
-**Currently:** CodeKonix Web Development Intern (Aug–Sept 2026)  
-**Based:** Multan, Pakistan  
-**Philosophy:** Write code today that you won't hate tomorrow
+</div>
+
+---
+
+## 🚀 ABOUT ME
+
+```
+I don't just write code. I architect solutions.
+I don't just ship features. I ship quality.
+I don't just build projects. I build production systems.
+```
+
+Currently interning at **CodeKonix** (Aug–Sept 2026)  
+Based in **Multan, Pakistan**  
+Philosophy: *Write code today that you won't hate tomorrow*
 
 ---
 
 ## 💻 TECH ARSENAL
 
+<div align="center">
+
+### BACKEND MASTERY
+[![Node.js](https://img.shields.io/badge/Node.js-90%25-c8d5b9?style=flat-square&logo=nodedotjs&logoColor=4a5e3a)](#)
+[![Express](https://img.shields.io/badge/Express-88%25-d4c9a8?style=flat-square&logo=express&logoColor=4a5e3a)](#)
+[![PHP](https://img.shields.io/badge/PHP-75%25-c8d5b9?style=flat-square&logo=php&logoColor=4a5e3a)](#)
+
+### DATABASE ARCHITECTURE
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-92%25-d4c9a8?style=flat-square&logo=postgresql&logoColor=4a5e3a)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-90%25-c8d5b9?style=flat-square&logo=mysql&logoColor=4a5e3a)](#)
+[![Prisma](https://img.shields.io/badge/Prisma-85%25-d4c9a8?style=flat-square&logo=prisma&logoColor=4a5e3a)](#)
+
+### MODERN FRONTEND
+[![Next.js](https://img.shields.io/badge/Next.js-88%25-c8d5b9?style=flat-square&logo=nextdotjs&logoColor=4a5e3a)](#)
+[![React](https://img.shields.io/badge/React-87%25-d4c9a8?style=flat-square&logo=react&logoColor=4a5e3a)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-85%25-c8d5b9?style=flat-square&logo=typescript&logoColor=4a5e3a)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-84%25-d4c9a8?style=flat-square&logo=tailwindcss&logoColor=4a5e3a)](#)
+
+</div>
+
+---
+
+## ⚡ FEATURED WORK
+
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <div style="border: 3px solid #378ADD; padding: 20px; border-radius: 8px; background: #f5f0e8;">
-        <h4>BACKEND</h4>
-        <p><strong>Node.js</strong></p>
-        <p><strong>Express</strong></p>
-        <p><strong>PHP</strong></p>
-        <p style="color: #639922; font-size: 12px;">REST APIs</p>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div style="border: 3px solid #639922; padding: 20px; border-radius: 8px; background: #f5f0e8;">
-        <h4>DATABASES</h4>
-        <p><strong>PostgreSQL</strong></p>
-        <p><strong>MySQL</strong></p>
-        <p><strong>Prisma ORM</strong></p>
-        <p style="color: #378ADD; font-size: 12px;">MongoDB</p>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div style="border: 3px solid #D85A30; padding: 20px; border-radius: 8px; background: #f5f0e8;">
-        <h4>FRONTEND</h4>
-        <p><strong>Next.js</strong></p>
-        <p><strong>React</strong></p>
-        <p><strong>TypeScript</strong></p>
-        <p style="color: #6b7f55; font-size: 12px;">Tailwind • Animation</p>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div style="border: 3px solid #993556; padding: 20px; border-radius: 8px; background: #f5f0e8;">
-        <h4>TOOLS</h4>
-        <p><strong>Git</strong></p>
-        <p><strong>Docker</strong></p>
-        <p><strong>Figma</strong></p>
-        <p style="color: #D85A30; font-size: 12px;">Vercel • AWS</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ BAZAR
+#### E-Commerce Platform
+
+**Production-grade. Battle-tested.**
+
+```
+✓ 15+ REST API endpoints
+✓ JWT authentication
+✓ 3-tier architecture
+✓ Admin dashboard
+✓ Shopping cart & checkout
+✓ PostgreSQL optimized queries
+```
+
+**Live in production handling real transactions**
+
+**Tech:** Node.js • Express • PostgreSQL • JWT
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 ARTWALA
+#### Event Management Platform
+
+**Currently LIVE**
+
+```
+✓ Advanced search & filtering
+✓ SQL-powered queries
+✓ Image upload system
+✓ Complete admin panel
+✓ 50+ live events
+✓ Active users in Pakistan
+```
+
+**[Visit Live →](https://artwala.page.gd)**
+
+**Tech:** PHP • MySQL • Admin CRUD
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 PORTFOLIO
+#### Windows XP Desktop
+
+**Design meets functionality**
+
+```
+✓ Draggable windows
+✓ Retro UI + Modern perf
+✓ Typewriter animations
+✓ Custom sound design
+✓ Cursor companion
+✓ Fully responsive
+```
+
+**[View Live →](https://zohamalik.dev)**
+
+**Tech:** Next.js • Framer Motion • React
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 STATS
+
+```
+┌──────────────────────┐
+│ 5+ Projects Shipped  │
+│ 15+ API Endpoints    │
+│ 3+ Years Building    │
+│ ∞ Learning Mode      │
+│ 100% Code Quality    │
+└──────────────────────┘
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-## ⚡ FEATURED PROJECTS
+## 📈 PROGRESS
 
-### 🛍️ BAZAR — E-COMMERCE PLATFORM
-**Production-grade. Battle-tested. Shipping real revenue.**
+<div align="center">
 
-Built a complete e-commerce stack from scratch:
-- **15+ REST API endpoints** with JWT authentication
-- **3-tier architecture** (routes → controllers → services)
-- **Admin dashboard** with full CRUD operations
-- **Shopping cart & checkout system** with order tracking
-- **PostgreSQL** with optimized queries
-- **Node.js + Express** backend
-
-> This isn't a tutorial project. This is code running in production right now.
-
-**Tech:** Node.js · Express · PostgreSQL · JWT · Admin Panel  
-**Status:** Live and handling real transactions
-
----
-
-### 🎨 ARTWALA — EVENT MANAGEMENT PLATFORM
-**Currently LIVE at https://artwala.page.gd**
-
-From zero to production in full-stack:
-- **Advanced search & filtering** powered by SQL queries
-- **Image upload system** with storage optimization
-- **Complete admin panel** with event management
-- **Relational database design** (users, events, categories)
-- **Responsive UI** that works on every device
-- **MySQL database** with 50+ events live
-
-> This platform is actively used by event organizers in Pakistan. Real users. Real events. Real impact.
-
-**Tech:** PHP · MySQL · Admin CRUD · Image Upload  
-**Live:** https://artwala.page.gd  
-**Status:** Production • Active Users
-
----
-
-### 💼 PORTFOLIO — WINDOWS XP NOSTALGIA MEETS MODERN WEB
-**Live at https://zohamalik.dev**
-
-What if your portfolio was... an operating system?
-
-- **Draggable windows** that actually feel native
-- **Retro UI elements** with modern performance
-- **Typewriter animations** on first load
-- **Custom sound design** for interactions
-- **Animated cursor companion** that follows you
-- **Fully responsive** desktop to mobile
-
-> Built with Next.js & Framer Motion. Proves you can do creative + performance at the same time.
-
-**Tech:** Next.js · Framer Motion · React · Creative Coding  
-**Live:** https://zohamalik.dev  
-**Status:** Shipped • Design Award Material
-
----
-
-## 📊 BY THE NUMBERS
-
+**Backend Development**
 ```
-┌─────────────────────────────────────────────┐
-│  5+ PROJECTS SHIPPED TO PRODUCTION          │
-│  15+ REST API ENDPOINTS BUILT               │
-│  3+ YEARS OF HANDS-ON DEVELOPMENT           │
-│  100% CODE QUALITY OBSESSED                 │
-│  ∞ LEARNING & IMPROVING DAILY               │
-└─────────────────────────────────────────────┘
+████████████████████░ 92%
 ```
+
+**Database Architecture**
+```
+██████████████████░░░ 88%
+```
+
+**Frontend Development**
+```
+█████████████████░░░░ 85%
+```
+
+**System Design**
+```
+████████████████░░░░░ 78%
+```
+
+**DevOps & Deployment**
+```
+███████████░░░░░░░░░░ 55%
+```
+
+</div>
 
 ---
 
 ## 🎯 WHAT MAKES ME DIFFERENT
 
-✅ **Not just code.** Architecture that scales.  
-✅ **Not just features.** Solutions that solve problems.  
-✅ **Not just projects.** Production-ready applications.  
-✅ **Not just shipping.** Shipping with quality.  
-✅ **Not copying tutorials.** Building real things.
+```
+✅ Not just code              → Architecture that scales
+✅ Not just features          → Solutions that solve problems
+✅ Not just projects          → Production-ready applications
+✅ Not copying tutorials      → Building real things
+✅ Not shipping quick         → Shipping with quality
+```
 
 ---
 
-## 📲 LET'S CONNECT
+## 📊 BY THE NUMBERS
 
-I'm always interested in:
-- Building something amazing together
-- Discussing web architecture & best practices
-- Contributing to open-source projects
-- Exploring opportunities that challenge me
+<div align="center">
 
-<div style="margin: 40px 0; padding: 30px; border: 3px solid #378ADD; border-radius: 8px; background: linear-gradient(135deg, #f5f0e8 0%, #e8f4f0 100%);">
+| Metric | Value |
+|--------|-------|
+| **Projects Shipped** | 5+ |
+| **REST API Endpoints** | 15+ |
+| **Years Building** | 3+ |
+| **Code Quality Score** | A+ |
+| **Learning Velocity** | ∞ |
 
-**Email:** zohamalik.dev@gmail.com  
-**Portfolio:** https://zohamalik.dev  
-**LinkedIn:** https://linkedin.com/in/zohamalik-  
-**GitHub:** https://github.com/zoha-malik01  
+</div>
+
+---
+
+## 🔧 CURRENTLY WORKING ON
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=400&lines=Krunch+Foundation+(SaaS);Advanced+System+Design;Open-Source+Contributions;DevOps+Fundamentals" alt="Current Projects" />](https://github.com/zoha-malik01)
+
+</div>
+
+---
+
+## 💡 INTERESTS
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Building scalable web applications
+├─ System design & architecture
+├─ Contributing to open-source
+├─ Exploring new technologies
+└─ Mentoring junior developers
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## 📲 LET'S BUILD SOMETHING AMAZING
+
+<div align="center">
+
+### I'm always open to:
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Discussing+web+architecture;Collaborating+on+side+projects;Contributing+to+open-source;Exploring+new+opportunities" alt="Interests" />
+
+</div>
+
+<div align="center">
+
+**[Send me an email](mailto:zohamalik.dev@gmail.com)** • **[View my portfolio](https://zohamalik.dev)** • **[Connect on LinkedIn](https://linkedin.com/in/zohamalik-)**
 
 </div>
 
@@ -220,11 +250,20 @@ I'm always interested in:
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════╗
-║  WRITE CODE TODAY THAT YOU'LL LOVE TOMORROW║
-╚═══════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║   EVERY COMMIT IS A STEP TOWARD MASTERY          ║
+║   WRITE CODE TODAY THAT YOU'LL LOVE TOMORROW     ║
+╚══════════════════════════════════════════════════╝
 ```
 
-**Every commit is a step toward mastery.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=639922&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!;Check+out+my+projects;Let's+build+together" alt="Closing" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=zoha-malik01&color=378ADD&style=flat-square)](https://github.com/zoha-malik01)
 
 </div>
