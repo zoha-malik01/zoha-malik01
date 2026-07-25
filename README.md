@@ -1,269 +1,87 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=ZOHA+MALIK;Full-Stack+Developer;Building+Production-Grade+Apps;Real+Solutions+for+Real+Problems" alt="Typing SVG" />
+# ZOHA MALIK
+
+Full-stack developer building production-grade web applications
+
+Based in Multan, Pakistan | Currently interning at CodeKonix (Aug–Sept 2026)
+
+[Email](mailto:zohamalik.dev@gmail.com) • [Portfolio](https://zohamalik.dev) • [LinkedIn](https://linkedin.com/in/zohamalik-) • [GitHub](https://github.com/zoha-malik01)
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-[![Email](https://img.shields.io/badge/Email-zohamalik.dev%40gmail.com-c8d5b9?style=for-the-badge&logo=gmail&logoColor=4a5e3a)](mailto:zohamalik.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zohamalik.dev-d4c9a8?style=for-the-badge&logo=globe&logoColor=4a5e3a)](https://zohamalik.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zohamalik-c8d5b9?style=for-the-badge&logo=linkedin&logoColor=4a5e3a)](https://linkedin.com/in/zohamalik-)
-[![GitHub](https://img.shields.io/badge/GitHub-zoha--malik01-d4c9a8?style=for-the-badge&logo=github&logoColor=4a5e3a)](https://github.com/zoha-malik01)
-
-</div>
+I build full-stack web applications with a focus on clean code, scalable architecture, and real-world problem-solving. Every project is production-ready, battle-tested, and designed to handle real users and real transactions.
 
 ---
 
-## 🚀 ABOUT ME
+## Tech Stack
 
-```
-I don't just write code. I architect solutions.
-I don't just ship features. I ship quality.
-I don't just build projects. I build production systems.
-```
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-c8d5b9?style=flat-square&logo=nodedotjs&logoColor=4a5e3a)
+![Express](https://img.shields.io/badge/Express-d4c9a8?style=flat-square&logo=express&logoColor=4a5e3a)
+![PHP](https://img.shields.io/badge/PHP-c8d5b9?style=flat-square&logo=php&logoColor=4a5e3a)
+![REST APIs](https://img.shields.io/badge/REST_APIs-d4c9a8?style=flat-square&logoColor=4a5e3a)
 
-Currently interning at **CodeKonix** (Aug–Sept 2026)  
-Based in **Multan, Pakistan**  
-Philosophy: *Write code today that you won't hate tomorrow*
+### Databases & ORMs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c8d5b9?style=flat-square&logo=postgresql&logoColor=4a5e3a)
+![MySQL](https://img.shields.io/badge/MySQL-d4c9a8?style=flat-square&logo=mysql&logoColor=4a5e3a)
+![Prisma](https://img.shields.io/badge/Prisma-c8d5b9?style=flat-square&logo=prisma&logoColor=4a5e3a)
+![MongoDB](https://img.shields.io/badge/MongoDB-d4c9a8?style=flat-square&logo=mongodb&logoColor=4a5e3a)
 
----
-
-## 💻 TECH ARSENAL
-
-<div align="center">
-
-### BACKEND MASTERY
-[![Node.js](https://img.shields.io/badge/Node.js-90%25-c8d5b9?style=flat-square&logo=nodedotjs&logoColor=4a5e3a)](#)
-[![Express](https://img.shields.io/badge/Express-88%25-d4c9a8?style=flat-square&logo=express&logoColor=4a5e3a)](#)
-[![PHP](https://img.shields.io/badge/PHP-75%25-c8d5b9?style=flat-square&logo=php&logoColor=4a5e3a)](#)
-
-### DATABASE ARCHITECTURE
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-92%25-d4c9a8?style=flat-square&logo=postgresql&logoColor=4a5e3a)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-90%25-c8d5b9?style=flat-square&logo=mysql&logoColor=4a5e3a)](#)
-[![Prisma](https://img.shields.io/badge/Prisma-85%25-d4c9a8?style=flat-square&logo=prisma&logoColor=4a5e3a)](#)
-
-### MODERN FRONTEND
-[![Next.js](https://img.shields.io/badge/Next.js-88%25-c8d5b9?style=flat-square&logo=nextdotjs&logoColor=4a5e3a)](#)
-[![React](https://img.shields.io/badge/React-87%25-d4c9a8?style=flat-square&logo=react&logoColor=4a5e3a)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-85%25-c8d5b9?style=flat-square&logo=typescript&logoColor=4a5e3a)](#)
-[![Tailwind](https://img.shields.io/badge/Tailwind-84%25-d4c9a8?style=flat-square&logo=tailwindcss&logoColor=4a5e3a)](#)
-
-</div>
+### Frontend & Modern Web
+![Next.js](https://img.shields.io/badge/Next.js-c8d5b9?style=flat-square&logo=nextdotjs&logoColor=4a5e3a)
+![React](https://img.shields.io/badge/React-d4c9a8?style=flat-square&logo=react&logoColor=4a5e3a)
+![TypeScript](https://img.shields.io/badge/TypeScript-c8d5b9?style=flat-square&logo=typescript&logoColor=4a5e3a)
+![Tailwind](https://img.shields.io/badge/Tailwind-d4c9a8?style=flat-square&logo=tailwindcss&logoColor=4a5e3a)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-c8d5b9?style=flat-square&logoColor=4a5e3a)
 
 ---
 
-## ⚡ FEATURED WORK
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Bazar — E-commerce Platform
 
-### 🛍️ BAZAR
-#### E-Commerce Platform
+Full-stack e-commerce platform with JWT authentication, admin dashboard, and cart management. 15+ REST endpoints with 3-tier architecture.
 
-**Production-grade. Battle-tested.**
-
-```
-✓ 15+ REST API endpoints
-✓ JWT authentication
-✓ 3-tier architecture
-✓ Admin dashboard
-✓ Shopping cart & checkout
-✓ PostgreSQL optimized queries
-```
-
-**Live in production handling real transactions**
-
-**Tech:** Node.js • Express • PostgreSQL • JWT
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 ARTWALA
-#### Event Management Platform
-
-**Currently LIVE**
-
-```
-✓ Advanced search & filtering
-✓ SQL-powered queries
-✓ Image upload system
-✓ Complete admin panel
-✓ 50+ live events
-✓ Active users in Pakistan
-```
-
-**[Visit Live →](https://artwala.page.gd)**
-
-**Tech:** PHP • MySQL • Admin CRUD
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 PORTFOLIO
-#### Windows XP Desktop
-
-**Design meets functionality**
-
-```
-✓ Draggable windows
-✓ Retro UI + Modern perf
-✓ Typewriter animations
-✓ Custom sound design
-✓ Cursor companion
-✓ Fully responsive
-```
-
-**[View Live →](https://zohamalik.dev)**
-
-**Tech:** Next.js • Framer Motion • React
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 STATS
-
-```
-┌──────────────────────┐
-│ 5+ Projects Shipped  │
-│ 15+ API Endpoints    │
-│ 3+ Years Building    │
-│ ∞ Learning Mode      │
-│ 100% Code Quality    │
-└──────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+**Tech:** Node.js · Express · PostgreSQL · REST API
 
 ---
 
-## 📈 PROGRESS
+### ArtWala — Event Management Platform
 
-<div align="center">
+Complete event management platform with search, filtering, and image uploads. Live and handling real events at [artwala.page.gd](https://artwala.page.gd)
 
-**Backend Development**
-```
-████████████████████░ 92%
-```
+**Tech:** PHP · MySQL · Admin Panel
 
-**Database Architecture**
-```
-██████████████████░░░ 88%
-```
-
-**Frontend Development**
-```
-█████████████████░░░░ 85%
-```
-
-**System Design**
-```
-████████████████░░░░░ 78%
-```
-
-**DevOps & Deployment**
-```
-███████████░░░░░░░░░░ 55%
-```
-
-</div>
+**Live:** https://artwala.page.gd
 
 ---
 
-## 🎯 WHAT MAKES ME DIFFERENT
+### Portfolio — Windows XP Desktop Theme
 
-```
-✅ Not just code              → Architecture that scales
-✅ Not just features          → Solutions that solve problems
-✅ Not just projects          → Production-ready applications
-✅ Not copying tutorials      → Building real things
-✅ Not shipping quick         → Shipping with quality
-```
+Nostalgic Windows XP-themed portfolio with draggable windows, retro UI, and animations. Live at [zohamalik.dev](https://zohamalik.dev)
+
+**Tech:** Next.js · Framer Motion · Creative Code
+
+**Live:** https://zohamalik.dev
 
 ---
 
-## 📊 BY THE NUMBERS
+## Let's Connect
 
-<div align="center">
+I'm interested in discussing web development, building side projects, and open-source contribution.
 
-| Metric | Value |
-|--------|-------|
-| **Projects Shipped** | 5+ |
-| **REST API Endpoints** | 15+ |
-| **Years Building** | 3+ |
-| **Code Quality Score** | A+ |
-| **Learning Velocity** | ∞ |
-
-</div>
-
----
-
-## 🔧 CURRENTLY WORKING ON
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=400&lines=Krunch+Foundation+(SaaS);Advanced+System+Design;Open-Source+Contributions;DevOps+Fundamentals" alt="Current Projects" />](https://github.com/zoha-malik01)
-
-</div>
-
----
-
-## 💡 INTERESTS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-├─ Building scalable web applications
-├─ System design & architecture
-├─ Contributing to open-source
-├─ Exploring new technologies
-└─ Mentoring junior developers
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 📲 LET'S BUILD SOMETHING AMAZING
-
-<div align="center">
-
-### I'm always open to:
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Discussing+web+architecture;Collaborating+on+side+projects;Contributing+to+open-source;Exploring+new+opportunities" alt="Interests" />
-
-</div>
-
-<div align="center">
-
-**[Send me an email](mailto:zohamalik.dev@gmail.com)** • **[View my portfolio](https://zohamalik.dev)** • **[Connect on LinkedIn](https://linkedin.com/in/zohamalik-)**
-
-</div>
+[![Email](https://img.shields.io/badge/Send_Email-zohamalik.dev@gmail.com-c8d5b9?style=for-the-badge&logo=gmail&logoColor=4a5e3a)](mailto:zohamalik.dev@gmail.com)
+[![View GitHub](https://img.shields.io/badge/View_GitHub-zoha--malik01-d4c9a8?style=for-the-badge&logo=github&logoColor=4a5e3a)](https://github.com/zoha-malik01)
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║   EVERY COMMIT IS A STEP TOWARD MASTERY          ║
-║   WRITE CODE TODAY THAT YOU'LL LOVE TOMORROW     ║
-╚══════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=639922&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!;Check+out+my+projects;Let's+build+together" alt="Closing" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=zoha-malik01&color=378ADD&style=flat-square)](https://github.com/zoha-malik01)
+*Building production-grade applications, one commit at a time.*
 
 </div>
